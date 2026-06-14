@@ -22,6 +22,7 @@
 - [Unity Development](https://github.com/TempeHS/TempeHS_Unity_DevContainer) configuration files.
 - [Python and Node.js](https://github.com/TempeHS/TempeHS_Python-nodeJS-DevContainer) configuration files.
 - [PySimpleGUI for Python Development](https://github.com/TempeHS/PySimpleGUI-4-GPL3v) library, docs and demos.
+- [Pygame for Python Game Development](https://github.com/TempeHS/TEMPEHS_PyGame_DevContainer) VNC configuration to develop in a codepsace.
 - [Python Exam/Test Extension Restricted DevContainer](https://github.com/TempeHS/Python_DevContainer_Examination_Environment) configuration files.
 
 ## Important Visual Studio Code Settings
